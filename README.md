@@ -1,6 +1,16 @@
-# Design and Analysis of Algorithms
+<h1 align="center">Design and Analysis of Algorithms </h1>
 
-Study material and assignments related to Design and Analysis of Algorithms course taught by Professor Smaranjit Ghose
+## **🎓 Course Information**
+
+- **Subject Code** :
+- **Faculty**: Professor Smaranjit Ghose 
+- **Semester**: 5
+- Term: Fall
+- **Year**: 2024
+- **Divisions** (under direct tutelage): 5ITC, 5B33
+
+
+## **📚Course Modules**
 
 |#|Topic | Study Material | Assignments |
 |--|-----|--------------|--------------|

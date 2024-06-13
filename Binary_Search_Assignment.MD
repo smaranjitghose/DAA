@@ -15,3 +15,6 @@
 14. [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
 15. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 16. [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+
+[Bonus]
+https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/

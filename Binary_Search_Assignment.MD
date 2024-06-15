@@ -1,20 +1,21 @@
 
-1. [Binary Search](https://leetcode.com/problems/binary-search/description/)
-2. [First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
-3. Ceil and Floor of an Array
-4. [Smallest Letter Greater than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-5. [Find First and Last Position in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-6. Position of an Element in Infinte Array
-7. [Peak Index in Mountain Array](https://leetcode.com/problems/find-peak-element/description/)
-8. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
-9. [Search in a Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-10. [Find Rotation Count in Sorted Array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
-11. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-12. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
-13. [Kth Positive Missing Number](https://leetcode.com/problems/kth-missing-positive-number/description/)
-14. [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
-15. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
-16. [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 
-[Bonus]
-https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/description/
+1. [Binary Search](https://leetcode.com/problems/binary-search/description/)
+2. Binary Search in a 2D array
+3. Binary Search to find the floor and ceil of an element in an array
+4. [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+5. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+6. [Count Negative Number Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)
+7. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+8. [Find First and Last Position in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+9. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+10. [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+11. [Smallest Letter Greater than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+12. [Peak Index in Mountain Array](https://leetcode.com/problems/find-peak-element/description/)
+13. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+14. [Search in a Rotated Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+15. [Find Rotation Count in Sorted Array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
+16. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+17. [Kth Positive Missing Number](https://leetcode.com/problems/kth-missing-positive-number/description/)
+18. [Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)
+

@@ -25,3 +25,8 @@
 23. Find mean of Array elements using recursion
 24. Find maximum and minimum of Array elements using recursion
 25. Find length of string recursion
+
+- [Power of Two](https://leetcode.com/problems/power-of-two/)
+- [Power of Three](https://leetcode.com/problems/power-of-three/)
+- [Power of Four](https://leetcode.com/problems/power-of-four/description/)
+

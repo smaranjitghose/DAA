@@ -3,9 +3,15 @@
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Largest Number](https://leetcode.com/problems/largest-number/description/)
 - [Missing Number](leetcode.com/problems/missing-number/description)
+- [Find all numbers disappeared in an array](leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)
+- [Find the Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/description/)
+- [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+- [Set Match]()
+- [Majority Element]()
+
 
 - Merge Sorted Array
-- Majority Element
+
 - Contains Duplicate
 
 - Intersection of Two Arrays
@@ -31,7 +37,5 @@
 - Can Make Arithmetic Progression From Sequence
 - Sort Array by Increasing Frequency
 - Special Array With X Elements Greater Than or Equal X
-- Find all numbers disappeared in an array
-- Set Mismatch
+
 - 2Sum
-- Medium

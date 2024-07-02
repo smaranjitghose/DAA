@@ -1,7 +1,7 @@
 
 
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
-
+- [Missing Number](leetcode.com/problems/missing-number/description)
 
 - Merge Sorted Array
 - Majority Element

@@ -1,6 +1,18 @@
+1. [Sort Colors](https://leetcode.com/problems/sort-colors/)
+2. [Sort the Sentence](leetcode.com/problems/sorting-the-sentence)
+3. [Minimum Number Game](leetcode.com/problems/minimum-number-game/description)
+4. [Average Salary Excluding the Minimum and Maximum](leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description)
+5. [Sort Even and Odd Indices Independently](leetcode.com/problems/sort-even-and-odd-indices-independently/description)
+6. [Special Array with X elements Greater than or equal X](leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description)
+7. [K Weakest Rows in a Matrix](leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description)
+8. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+9. [Height Checker](https://leetcode.com/problems/height-checker/description/)
+10. [Relative Ranks](https://leetcode.com/problems/relative-ranks/description/)
+11. [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)
+12. [How many numbers are smaller than the current ](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
+13. [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
 
 
-- [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [Largest Number](https://leetcode.com/problems/largest-number/description/)
 - [Missing Number](leetcode.com/problems/missing-number/description)
 - [Find all numbers disappeared in an array](leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)
@@ -9,33 +21,3 @@
 - [Set Match]()
 - [Majority Element]()
 
-
-- Merge Sorted Array
-
-- Contains Duplicate
-
-- Intersection of Two Arrays
-- Intersection of Two Arrays II
-- Third Maximum Number
-- Assign Cookies
-- Array Partition I
-- Maximum Product of Three Numbers
-- Sort Array By Parity
-- Sort Array By Parity II
-- Largest Perimeter Triangle
-- Squares of a Sorted Array
-- Matrix Cells in Distance Order
-- Height Checker
-- Relative Sort Array
-- Minimum Absolute Difference
-- Rank Transform of an Array
-- Sort Integers by The Number of 1 Bits
-- How Many Numbers Are Smaller Than the Current Number
-- Maximum Product of Two Elements in an Array
-- Average Salary Excluding the Minimum and Maximum Salary
-- Make Two Arrays Equal by Reversing Sub-arrays
-- Can Make Arithmetic Progression From Sequence
-- Sort Array by Increasing Frequency
-- Special Array With X Elements Greater Than or Equal X
-
-- 2Sum

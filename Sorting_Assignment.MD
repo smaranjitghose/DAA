@@ -18,5 +18,5 @@
 - [Find all numbers disappeared in an array](leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)
 - [Find the Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
-- [Majority Element]((https://leetcode.com/problems/majority-element/description)
+- First Missing Positive
 

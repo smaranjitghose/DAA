@@ -15,7 +15,7 @@
 
 - [Missing Number](https://leetcode.com/problems/missing-number/description)
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
-- [Find all numbers disappeared in an array](leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)
+- [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)
 - [Find the Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 - First Missing Positive

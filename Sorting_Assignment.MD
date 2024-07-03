@@ -13,7 +13,7 @@
 13. [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
 
 
-- [Missing Number](leetcode.com/problems/missing-number/description)
+- [Missing Number](https://leetcode.com/problems/missing-number/description)
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 - [Find all numbers disappeared in an array](leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)
 - [Find the Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/description/)

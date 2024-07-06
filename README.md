@@ -19,7 +19,7 @@
 |3|[Recursion](https://excalidraw.com/#json=B_RNsqpiceXFAOzZ5TJdP,0qFslpvoE_rsICdsRmymYg)| [Recursion PPT](https://www.canva.com/design/DAGIuo-aKbo/KpuxLZMenqo5mgdP5GTp4w/view?utm_content=DAGIuo-aKbo&utm_campaign=designshare&utm_medium=link&utm_source=editor)|[Recursion Assignment](https://github.com/smaranjitghose/DAA/blob/main/Recursion_Assignment.MD)|
 |4| Time and Space Complexity| [Time Complexity Basics PPT](https://www.canva.com/design/DAGJHZ8k_-o/vC_kcBGjW6CS9_n-NgZLDw/view?utm_content=DAGJHZ8k_-o&utm_campaign=designshare&utm_medium=link&utm_source=editor)| |
 |5| [Sorting](https://www.canva.com/design/DAGJxnh_s7g/a9ZUdrbJ3SHJ2EpYesfbFA/view?utm_content=DAGJxnh_s7g&utm_campaign=designshare&utm_medium=link&utm_source=editor) || [Sorting Assignment](https://github.com/smaranjitghose/DAA/blob/main/Sorting_Assignment.MD)|
-|6| Divide and Conquer || |
+|6| Divide and Conquer |[Matrix Multiplication](https://www.canva.com/design/DAGJHfDlo50/QF1EUgbBwBqJPgUAFgkJfg/view?utm_content=DAGJHfDlo50&utm_campaign=designshare&utm_medium=link&utm_source=editor)| |
 |7|Greedy Algorithms|||
 |8|Dynamic Programming |||
 |9| Backtracking |||

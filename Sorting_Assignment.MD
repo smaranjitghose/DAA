@@ -12,14 +12,9 @@
 12. [How many numbers are smaller than the current ](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 13. [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
 14. [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
+15. [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)
+16. [Find the Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/description/)
+17. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+18. [Missing Number](https://leetcode.com/problems/missing-number/description)
 
 
-- [Missing Number](https://leetcode.com/problems/missing-number/description)
-- 
-- [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)
-- [Find the Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/description/)
-- [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
-- First Missing Positive
-
-
-<!-- Increase Problem Count to 25 -->

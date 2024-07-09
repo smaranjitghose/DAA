@@ -11,10 +11,11 @@
 11. [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)
 12. [How many numbers are smaller than the current ](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
 13. [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/)
+14. [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
 
 
 - [Missing Number](https://leetcode.com/problems/missing-number/description)
-- [Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)
+- 
 - [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)
 - [Find the Duplicate number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)

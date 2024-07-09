@@ -17,4 +17,6 @@ Solve the following using Python
 13. Write a program to check two strings are anagrams
 
 
+- [Check if Numbers are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)
 - [Missing Number](https://leetcode.com/problems/missing-number/description/)
+

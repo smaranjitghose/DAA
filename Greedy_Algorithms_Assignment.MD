@@ -1,3 +1,4 @@
+- [K Items with the maximum sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/)
 
 - [Assign Cookies](leetcode.com/problems/assign-cookies/description)
 - [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)

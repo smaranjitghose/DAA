@@ -9,8 +9,12 @@
 9. [Assign Cookies](leetcode.com/problems/assign-cookies/description)
 10. [Minimum Cost to Cut Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)
 11. [Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
-. 
-- [Minimum Number of Platforms for Railway/Bus](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
+12. [Shortest Job First](https://www.geeksforgeeks.org/problems/shortest-job-first/1)
+13. [Jump Game](https://leetcode.com/problems/jump-game/description/)
+14. [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
+15. [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+16. [Non Overlapping Intervals]https://leetcode.com/problems/non-overlapping-intervals/description/
+17. [Minimum Number of Platforms for Railway/Bus](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/)
 - 
 
 - [K Items with the maximum sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/description/)
@@ -22,14 +26,12 @@
 - [Coin Change](https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/)
 
 - 
-- [Jump Game](https://leetcode.com/problems/jump-game/description/)
+- 
 - [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 - [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
 - [Candy](https://leetcode.com/problems/candy/description/)
-- [Insert Interval](https://leetcode.com/problems/insert-interval/description/)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
-- [Non Overlapping Intervals]https://leetcode.com/problems/non-overlapping-intervals/description/)
-- [Shortest Job First](https://www.geeksforgeeks.org/problems/shortest-job-first/1)
+-)
+
 - [Page Faults in LRU](https://www.geeksforgeeks.org/problems/page-faults-in-lru5603/1)
 
 - [Disjoint Intervals]()

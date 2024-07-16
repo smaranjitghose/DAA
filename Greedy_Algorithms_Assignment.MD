@@ -1,14 +1,18 @@
 1. You are given an array of integers and an integer k. Your task is to select k elements from the array such that their sum is maximized
 2. [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)
-3. [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
-4. [N Meetings in one Room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
-5. [Find Maximum Meetings in One room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
-6. [Shop in a Candy Store](https://www.geeksforgeeks.org/problems/shop-in-candy-store1145/1)
-7. [Check if possible to survive on island](https://www.geeksforgeeks.org/problems/check-if-it-is-possible-to-survive-on-island4922/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article)
-8. [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
-9. [Assign Cookies](leetcode.com/problems/assign-cookies/description)
+3. [Check if possible to survive on island](https://www.geeksforgeeks.org/problems/check-if-it-is-possible-to-survive-on-island4922/1)
+4. [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
+5. [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/description/)
+6. [Chocolate Distribution](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
+7. [Shop in a Candy Store](https://www.geeksforgeeks.org/problems/shop-in-candy-store1145/1)
+8. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
+
+
+
 10. [Minimum Cost to Cut Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)
 11. [Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)
+4. [N Meetings in one Room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
+5. [Find Maximum Meetings in One room](https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/)
 12. [Shortest Job First](https://www.geeksforgeeks.org/problems/shortest-job-first/1)
 13. [Jump Game](https://leetcode.com/problems/jump-game/description/)
 14. [Insert Interval](https://leetcode.com/problems/insert-interval/description/)

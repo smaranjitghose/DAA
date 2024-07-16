@@ -20,7 +20,7 @@
 |4| Time and Space Complexity| [Time Complexity Basics PPT](https://www.canva.com/design/DAGJHZ8k_-o/vC_kcBGjW6CS9_n-NgZLDw/view?utm_content=DAGJHZ8k_-o&utm_campaign=designshare&utm_medium=link&utm_source=editor)| |
 |5| Sorting  |[Sorting Algorithms PPT](https://www.canva.com/design/DAGJxnh_s7g/a9ZUdrbJ3SHJ2EpYesfbFA/view?utm_content=DAGJxnh_s7g&utm_campaign=designshare&utm_medium=link&utm_source=editor)| [Sorting Assignment](https://github.com/smaranjitghose/DAA/blob/main/Sorting_Assignment.MD)|
 |6| Divide and Conquer |[Matrix Multiplication PPT](https://www.canva.com/design/DAGJHfDlo50/QF1EUgbBwBqJPgUAFgkJfg/view?utm_content=DAGJHfDlo50&utm_campaign=designshare&utm_medium=link&utm_source=editor)| |
-|7|Greedy Algorithms|[Greedy Algorithms PPT](https://www.canva.com/design/DAGKgeGQU8Q/pIUPaOPvrGfSfTSHedUqSw/view?utm_content=DAGKgeGQU8Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)||
+|7|Greedy Algorithms|[Greedy Algorithms PPT](https://www.canva.com/design/DAGKgeGQU8Q/pIUPaOPvrGfSfTSHedUqSw/view?utm_content=DAGKgeGQU8Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)|[Greedy Algorithm Assignment](https://github.com/smaranjitghose/DAA/blob/main/Greedy_Algorithms_Assignment.MD)|
 |8|Backtracking |||
 |9| Graph Theory|||
 |10|Dynamic Programming |||

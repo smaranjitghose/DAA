@@ -22,6 +22,7 @@
 |6| Divide and Conquer |[Matrix Multiplication PPT](https://www.canva.com/design/DAGJHfDlo50/QF1EUgbBwBqJPgUAFgkJfg/view?utm_content=DAGJHfDlo50&utm_campaign=designshare&utm_medium=link&utm_source=editor)| |
 |7|Greedy Algorithms|[Greedy Algorithms PPT](https://www.canva.com/design/DAGKgeGQU8Q/pIUPaOPvrGfSfTSHedUqSw/view?utm_content=DAGKgeGQU8Q&utm_campaign=designshare&utm_medium=link&utm_source=editor)||
 |8|Backtracking |||
-|9|Dynamic Programming |||
-|10|String Manipulation |||
-|11|Complexity Classes||| 
+|9| Graph Theory|||
+|10|Dynamic Programming |||
+|11|String Manipulation |||
+|12|Complexity Classes||| 

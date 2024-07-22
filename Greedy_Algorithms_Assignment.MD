@@ -17,7 +17,7 @@
 17. [Jump Game](https://leetcode.com/problems/jump-game/description/)
 18. [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
 19. [Minimum Number of Platforms for Railway/Bus](https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/) 
-20. [Distribute Candy]()
+20. [Distribute Candy](https://leetcode.com/problems/candy/description/)
 21. [Huffman Coding](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1)
 22. [Assign Mice to Holes](https://www.geeksforgeeks.org/problems/assign-mice-holes3053/0)
 23. [Policeman Catch Theives](https://www.geeksforgeeks.org/policemen-catch-thieves/)
